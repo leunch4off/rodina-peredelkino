@@ -4,6 +4,32 @@
 >
 > A digital ecosystem where an entire residential complex lives inside one app.
 
+---
+
+## 📖 Contents
+
+- About
+
+- Documentation
+
+- Mission
+
+- Vision
+
+- Planned Features
+
+- Community
+
+- Privacy
+
+- Open Source
+
+- Long-Term Goal
+
+- Disclaimer
+
+---
+
 ## About
 
 Rodina Peredelkino Community is an independent open-source initiative inspired by ЖК «Родина Переделкино».
