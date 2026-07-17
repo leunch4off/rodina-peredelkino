@@ -60,7 +60,7 @@ Project documentation is available in the `/docs` directory.
 - 🗺️ [Roadmap](docs/roadmap.md)
 - 🎨 [UI Guidelines](docs/ui-guidelines.md)
 - 🤝 [Contributing](docs/contributing.md)
-- 💬 [Community Chat](docs/chat.md)
+- 💬 [Community Chat](docs/chat/chat.md)
 
 ---
 
