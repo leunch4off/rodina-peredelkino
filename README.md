@@ -4,6 +4,12 @@
 >
 > A digital ecosystem where an entire residential complex lives inside one app.
 
+<p align="center">
+
+  <img src="docs/images/hero.png" width="100%">
+
+</p>
+
 ---
 
 ## 📖 Contents
