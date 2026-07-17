@@ -11,12 +11,16 @@ This roadmap reflects the long-term vision of the project. Development prioritie
 - [x] Create GitHub repository
 - [x] Open Source release
 - [x] MIT License
-- [x] Initial documentation
-- [ ] Project architecture
-- [ ] Design system
-- [ ] CI/CD
-
----
+- [x] README
+- [x] Architecture documentation
+- [x] UI Guidelines
+- [x] Contributing Guide
+- [x] Initial Roadmap
+- [ ] GitHub Actions (CI/CD)
+- [ ] Issue Templates
+- [ ] Pull Request Template
+- [ ] Code of Conduct
+- [ ] Security Policy
 
 # Phase 2 — iOS Application
 
