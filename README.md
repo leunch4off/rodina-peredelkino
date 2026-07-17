@@ -29,6 +29,17 @@ A true **City Inside an App.**
 
 ---
 
+# 📚 Documentation
+
+Project documentation is available in the `/docs` directory.
+
+- 📖 [Architecture](docs/architecture.md)
+- 🗺️ [Roadmap](docs/roadmap.md)
+- 🎨 [UI Guidelines](docs/ui-guidelines.md)
+- 🤝 [Contributing](docs/contributing.md)
+
+---
+
 # Our Mission
 
 We believe that modern residential complexes deserve modern digital infrastructure.
